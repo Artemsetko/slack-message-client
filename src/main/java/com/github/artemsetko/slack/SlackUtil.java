@@ -21,7 +21,6 @@ public class SlackUtil {
 
     private static final String WEBHOOK = "https://hooks.slack.com/services/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";
     private static final String TOKEN = "xoxb-894002955235-894173982499-pgiLN8TDR1wwEizDS0R5VKGV";
-   // private static final String PATH_TO_POM_XML = "/Users/asiet/Artem/YOTTAA/SOURCES/aggregation/pom.xml";
     private static final String PATH_TO_POM_XML = "path/to/pom.xml";
     private static final String PATH_TO_MAVEN_BIN = "/usr/local/Cellar/maven/3.6.1/libexec/";
 
